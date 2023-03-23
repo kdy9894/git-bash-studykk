@@ -1,6 +1,10 @@
-#description
+#Description
 
-#checklist
+#Checklist
 
-[]new features    
-[]dug fix   
+[ ]New features    
+[ ]Bug fix   
+[ ]Suggest
+[ ]ETC (please write somthings...)
+
+#Other
